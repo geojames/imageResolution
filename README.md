@@ -1,5 +1,6 @@
 # imageResolution
 ### Simple spatial resolution calculator for nadir aerial imagery.
+_Version 1.0 - Initial Release_
 
 This script has two options, working forward from the 
 flying heights to give pixel resolutions or working 
