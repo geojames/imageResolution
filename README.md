@@ -29,3 +29,5 @@ The calculations are basic trigonometric functions that do not take into account
 Useage:
 Run this script from the command line or an editor. Enter the values for each prompt. The calculations in this script are unit independent, but all linear distance values 
 (e.g. resolutions or flying heights) need to be in the same units (feet, meters, whatever you like...).
+
+({{site.baseurl}}/imageResolution/nadir_vs_oblique.png)
